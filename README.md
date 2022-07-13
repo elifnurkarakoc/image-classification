@@ -1,6 +1,5 @@
 <p align="center">
     <h3 align="center">Image Classification</h3>
-    <br />
         <p align="center">
         <a href="">View Demo on Vercel</a>
     </p>
