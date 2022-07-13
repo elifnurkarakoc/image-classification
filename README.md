@@ -1,9 +1,10 @@
 <p align="center">
     <h3 align="center">Image Classification</h3>
         <p align="center">
-        <a href="https://imageclassification.vercel.app/">View Demo on Vercel</a>
-    </p>
-    
+            <a href="https://imageclassification.vercel.app/">View Demo on Vercel</a>
+             • 
+            <a href="https://github.com/elifnurkarakoc/image-classification-gradio">Backend Repo</a>
+        </p>
 </p>
 
 <p align="center">
