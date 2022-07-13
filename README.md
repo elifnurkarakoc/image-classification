@@ -1,7 +1,7 @@
 <p align="center">
     <h3 align="center">Image Classification</h3>
         <p align="center">
-        <a href="">View Demo on Vercel</a>
+        <a href="https://imageclassification.vercel.app/">View Demo on Vercel</a>
     </p>
     
 </p>
