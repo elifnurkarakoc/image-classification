@@ -6,6 +6,9 @@
     
 </p>
 
+<p align="center">
+  <img src="https://github.com/elifnurkarakoc/image-classification/blob/main/screenshots/screenshot1.png" title="hover text">
+</p>
 
 ### Built With
 #### Client
