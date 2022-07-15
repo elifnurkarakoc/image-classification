@@ -69,7 +69,7 @@ export const ImageClassification = ({
               ))}
             </>
           )}
-          {isLoading && <div>Loading...</div>}
+          {isLoading && file && <div>Loading...</div>}
         </div>
       </div>
     </div>

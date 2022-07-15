@@ -1,11 +1,14 @@
 /** Dependencies */
 import { Provider } from "react-redux";
+import { lazy } from "react";
 
 /** Stores */
 import store from "store/store";
 
 /** Components */
-import ImageClassification from "components/ImageClassification/ImageClassification";
+const ImageClassification = lazy(() =>
+  import("components/ImageClassification/ImageClassification")
+);
 
 function App() {
   return (
